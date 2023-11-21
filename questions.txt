@@ -1,0 +1,7 @@
+1. Can reflection be used for testing class variables and constructors?
+2. Why are constructors necessary for simple variable initialization? Can initializers replace them?
+3. How can you prevent specific superclass methods from being overridden in Java?
+4. In Java, does the instance initializer execute before or after the constructor?
+5. What are the steps to create an abstract class in Java?
+6. Under what circumstances is multilevel inheritance beneficial in Java programming?
+7. Can a Maven project have multiple main functions? How to execute two functions simultaneously in one application?
